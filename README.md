@@ -7,6 +7,10 @@ Castle Blood Automatic
 
 ## Change Log
 
+### 0.1.8
+
+- Balance work
+
 ### 0.1.6
 
 - Fix bugs

@@ -3,7 +3,7 @@ Castle Blood Automatic
 
 ## To Do List
 
-- Team spawn
+- XAML
 
 ## Change Log
 
